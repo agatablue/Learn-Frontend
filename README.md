@@ -1,4 +1,4 @@
-# Learn-Frontend
+# Learn-Programming
 
 1. Edytor kodu
 Polecam zainstalować Visual Studio Code. https://code.visualstudio.com/ - tu będziemy pisać kod.
@@ -9,4 +9,4 @@ dostępny terminal. W związku z tym jeśli jesteś na Linuxie lub Macu to są o
 
 3. Zakładamy konto na github.com.
 
-4. Sciągamy repozytorium na dysk. Tutaj najlepiej jak się zdzwonimy moze na Skype to Ci pomogę i pójdzie szybciej.
+4. Sciągamy repozytorium na dysk.
